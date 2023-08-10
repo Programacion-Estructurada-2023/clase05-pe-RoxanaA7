@@ -1,0 +1,15 @@
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\bin\Debug\net7.0\clase05-pe-RoxanaA7.exe
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\bin\Debug\net7.0\clase05-pe-RoxanaA7.deps.json
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\bin\Debug\net7.0\clase05-pe-RoxanaA7.runtimeconfig.json
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\bin\Debug\net7.0\clase05-pe-RoxanaA7.dll
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\bin\Debug\net7.0\clase05-pe-RoxanaA7.pdb
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.csproj.AssemblyReference.cache
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.AssemblyInfoInputs.cache
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.AssemblyInfo.cs
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.csproj.CoreCompileInputs.cache
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.dll
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\refint\clase05-pe-RoxanaA7.dll
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.pdb
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\clase05-pe-RoxanaA7.genruntimeconfig.cache
+C:\Users\roxana.argueta\Desktop\ROXANA\MATERIAS IMPARTIDAD 2023\PROGRAMACION ESTRUCTURADA\INSTRUCTORIAS\CLASE 05\clase05-pe-RoxanaA7\obj\Debug\net7.0\ref\clase05-pe-RoxanaA7.dll
